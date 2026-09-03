@@ -6,7 +6,7 @@ The project focuses on responsive web design, usability and creating a consisten
 
 ## Live Demo
 
-https://michaelmateii.github.io/
+https://michaelmateii.github.io/pulse-fitness/
 
 ## Features
 
