@@ -45,4 +45,4 @@ The project includes semantic HTML, alternative text for images, keyboard focus 
 
 A more detailed report about the design process, responsiveness, testing and accessibility is available in:
 
-[View the project report (PDF)](docs/pulse-fitness-project-report.pdf)
+[View the project report (PDF)](docs/Pulse-Fitness-project-report.pdf)
