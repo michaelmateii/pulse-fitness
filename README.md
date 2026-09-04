@@ -1,6 +1,6 @@
 # Pulse Fitness
 
-A responsive multi-page website for a fictional gym, created as part of my Computer Science studies.
+A responsive multi-page website for a fictional gym, built as part of my studies in responsive web design.
 
 The project focuses on responsive web design, usability and creating a consistent experience across desktop, tablet and mobile devices.
 
@@ -45,4 +45,4 @@ The project includes semantic HTML, alternative text for images, keyboard focus 
 
 A more detailed report about the design process, responsiveness, testing and accessibility is available in:
 
-`docs/pulse-fitness-project-report.pdf`
+[View the project report (PDF)](docs/pulse-fitness-project-report.pdf)
